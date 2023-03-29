@@ -3,12 +3,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        //Console.WriteLine("Hello, World!");
+        Produto p1 = new Produto();
 
-        Lampada lamp1 = new Lampada();
-        Lampada lamp2 = new Lampada();
-        lamp1.ligar();
-        Console.WriteLine("A lampada1 está ligada?"+ lamp1.estaLigada());
-        Console.WriteLine("A lampada2 está ligada?"+ lamp2.estaLigada());
+        //p1.Nome = "parafuso";
+        p1.AlteraNome("Parafuso");
+        //p1.Preco = 1.67;
+        p1.AlteraPreco(1.98);
+
+        p1.MostraDados();
     }
 }
