@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\exemplo_herança\obj\Debug\net7.0\exemplo_herança.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\exemplo_herança\obj\Debug\net7.0\exemplo_herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\exemplo_herança\obj\Debug\net7.0\exemplo_herança.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\exemplo_herança\obj\Debug\net7.0\exemplo_herança.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\exemplo_herança\obj\Debug\net7.0\exemplo_herança.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\exemplo_herança\bin\Debug\net7.0\exemplo_herança.exe
+C:\Users\LAB4\Desktop\exemplo_herança\bin\Debug\net7.0\exemplo_herança.deps.json
+C:\Users\LAB4\Desktop\exemplo_herança\bin\Debug\net7.0\exemplo_herança.runtimeconfig.json
+C:\Users\LAB4\Desktop\exemplo_herança\bin\Debug\net7.0\exemplo_herança.dll
+C:\Users\LAB4\Desktop\exemplo_herança\bin\Debug\net7.0\exemplo_herança.pdb
+C:\Users\LAB4\Desktop\exemplo_herança\obj\Debug\net7.0\exemplo_herança.dll
+C:\Users\LAB4\Desktop\exemplo_herança\obj\Debug\net7.0\refint\exemplo_herança.dll
+C:\Users\LAB4\Desktop\exemplo_herança\obj\Debug\net7.0\exemplo_herança.pdb
+C:\Users\LAB4\Desktop\exemplo_herança\obj\Debug\net7.0\exemplo_herança.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\exemplo_herança\obj\Debug\net7.0\ref\exemplo_herança.dll
